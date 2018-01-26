@@ -1,0 +1,10 @@
+db.sqlite3
+geckodriver.log
+virtualenv
+geckodriver.exe
+superlists/__pycache__/__init__.cpython-36.pyc
+superlists/__pycache__/settings.cpython-36.pyc
+superlists/__pycache__/urls.cpython-36.pyc
+superlists/__pycache__/wsgi.cpython-36.pyc
+__pycache__
+geckodriver.exe
