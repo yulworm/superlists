@@ -9,4 +9,4 @@ superlists/__pycache__/wsgi.cpython-36.pyc
 __pycache__
 geckodriver.exe
 Tips.txt
-./static
+./static/
