@@ -7,6 +7,6 @@ superlists/__pycache__/settings.cpython-36.pyc
 superlists/__pycache__/urls.cpython-36.pyc
 superlists/__pycache__/wsgi.cpython-36.pyc
 __pycache__
+static
 geckodriver.exe
 Tips.txt
-./static/
